@@ -1,0 +1,13 @@
+name: bird_recognition
+title: bird_recognition
+username:
+account: m250
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4144530
+bundleId: 4634910
+url: https://m250.shinyapps.io/bird_recognition/
+when: 1621890961.81784
+lastSyncTime: 1621890961.81784
+asMultiple: FALSE
+asStatic: FALSE
